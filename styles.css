@@ -1,17 +1,20 @@
 .contact{
     background-color:rgb(62, 62, 62);
     color:white;
-    font-style:bold;
+    text-decoration:bold;
     text-align:center;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
 }
 .projects{
     background-color:wheat;
     font-family: Arial, Helvetica, sans-serif;
+    font-style:italic;
 }
 .skills{
     background-color:wheat;
-    text-align: center;
+    font-family:sans-serif;
+    text-decoration:underline;
 }
 .about{
     background-color:wheat;

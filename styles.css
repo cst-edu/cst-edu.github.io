@@ -18,6 +18,15 @@
 }
 .about{
     background-color:wheat;
+    background: #00b3d1;
     text-align: left;
     width: 100%;
+}
+body {
+    background: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:dimgrey;
+    text-align:center;
 }

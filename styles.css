@@ -40,7 +40,7 @@ h1 {
     border-radius: 25%;
     align-content: center;
 }
-img{
+.project img{
     width: 300px;
     height: 300px;
     margin: 10px;
@@ -48,12 +48,11 @@ img{
     display:block;
     margin:auto;
 }
-p{
-    text-align:center;
+.project p{
+    text-align: center;
     margin: 15px;
 }
 a{
     text-decoration: none;
     color: red;
-    text-align: center;
 }
